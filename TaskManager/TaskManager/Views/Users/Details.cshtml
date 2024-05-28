@@ -1,0 +1,44 @@
+﻿@model UserDetailsViewModel
+
+@{
+    ViewData["Title"] = "" + Model.FullName;
+}
+
+<link rel="stylesheet" href="~/css/users/details.css" asp-append-version="true" />
+
+<section class="main-container">
+    <article class="main-row">
+        <div class="main-column">
+            <img class="main-image" src="@Model.ImageFullPath" alt="@Model.FirstName" loading="lazy"/>
+            <a class="main-edit main-edit-1" asp-action="EditInfo" asp-controller="Users">
+                <i class="bi bi-pencil"></i>
+            </a>
+        </div>
+        <div class="main-column">
+            <div class="main-description">
+                <p class="main-title">@Model.FullName</p>
+                <p class="main-title">@Model.Email</p><br/>
+                <p class="main-title">@Model.UserName</p>
+            </div>
+        </div>
+    </article>
+
+    <hr/>
+    
+    <article class="main-row">
+        <div class="main-column">
+            <h3 class="main-info">Personal Notes: </h3>
+            <p class="main-quantity">@Model.NotesNumber</p>
+        </div>
+
+        <div class="main-column">
+            <h3 class="main-info">Groups: </h3>
+            <p class="main-quantity">@Model.GroupsNumber</p>
+        </div>
+
+        <div class="main-column">
+            <h3 class="main-info">Group Tasks: </h3>
+            <p class="main-quantity">@Model.TasksNumbers</p>
+        </div>
+    </article>
+</section>

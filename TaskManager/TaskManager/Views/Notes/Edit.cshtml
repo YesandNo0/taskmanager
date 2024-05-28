@@ -1,0 +1,44 @@
+﻿@model EditNoteViewModel
+
+@{
+    ViewData["Title"] = "Edit note";
+}
+
+<link rel="stylesheet" href="~/css/notes/general-notes.css" asp-append-version="true"/>
+<link rel="stylesheet" href="~/css/notes/edit.css" asp-append-version="true"/>
+
+<section class="container">
+    <form asp-action="Edit" asp-controller="Notes" enctype="multipart/form-data" class="form">
+        <div asp-validation-summary="ModelOnly" class="error"></div>
+
+        <input type="hidden" asp-for="Id"/>
+
+        <div class="group">
+            <label asp-for="Text" class="label"></label>
+            <textarea asp-for="Text" class="input" placeholder="Note..."></textarea>
+            <span asp-validation-for="Text" class="error"></span>
+        </div>
+
+        @* <div class="group">
+            <label asp-for="State" class="label"></label>
+            <select asp-for="State" asp-items="Model.States" class="edit-select"></select>
+            <span asp-validation-for="State" class="error"></span>
+        </div> *@
+
+        <div class="buttons">
+            <button type="submit" value="Edit" class="btn ok">
+                <i class="bi bi-check-lg"></i> 
+                Accept
+            </button>
+
+            <a asp-action="Index" asp-controller="Home" class="btn cancel">
+                <i class="bi bi-x-lg"></i> 
+                Cancel
+            </a>
+        </div>
+    </form>
+</section>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

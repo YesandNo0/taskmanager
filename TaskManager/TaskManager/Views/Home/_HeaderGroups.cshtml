@@ -1,0 +1,33 @@
+﻿@model string
+
+<link rel="stylesheet" href="~/css/groups/header.css" asp-append-version="true"/>
+
+<div class="container-header">
+    <h3 class="groups-title">
+        Groups of @Model
+    </h3>
+
+    <section class="group-container">
+        <article class="group-column">
+            <p class="group-column-title">
+                Do you want to create a new group?
+            </p>
+
+            <a asp-action="Create" asp-controller="Groups" class="group-button btn-create">
+                <i class="bi bi-plus-lg"></i>
+                Create
+            </a>
+        </article>
+
+        <article class="group-column">
+            <p class="group-column-title">
+                Do you want to be part of a group?
+            </p>
+
+            <a asp-action="Enter" asp-controller="Groups" class="group-button btn-enter">
+                <i class="bi bi-box-arrow-right"></i> 
+                Get in
+            </a>
+        </article>
+    </section>
+</div>

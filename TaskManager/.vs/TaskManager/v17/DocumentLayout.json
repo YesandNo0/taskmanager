@@ -1,0 +1,718 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\views\\home\\_groups.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\home\\_groups.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\data\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\data\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\views\\groups\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\groups\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\views\\taskworks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\taskworks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\views\\notes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\notes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\data\\taskwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\data\\taskwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\models\\tasks\\edittaskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\tasks\\edittaskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\controllers\\taskworkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\controllers\\taskworkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\views\\groups\\_tasks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\groups\\_tasks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\models\\groups\\editgroupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\groups\\editgroupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\services\\groupsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\services\\groupsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\helpers\\errormessagesidentityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\helpers\\errormessagesidentityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\models\\groups\\creategroupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\groups\\creategroupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\models\\groups\\entergroupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\groups\\entergroupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\models\\users\\editinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\users\\editinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\models\\users\\userdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\users\\userdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\models\\users\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\users\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\models\\dtos\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\dtos\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\wwwroot\\js\\groups\\exit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\wwwroot\\js\\groups\\exit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\services\\notesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\services\\notesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\models\\notes\\editnoteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\notes\\editnoteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\enums\\statetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\enums\\statetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\data\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\data\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\models\\notes\\addnoteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\notes\\addnoteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\controllers\\api\\apinotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\controllers\\api\\apinotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\wwwroot\\js\\tasks\\delete.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\wwwroot\\js\\tasks\\delete.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\wwwroot\\js\\notes\\complete.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\wwwroot\\js\\notes\\complete.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\wwwroot\\css\\groups\\create.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\wwwroot\\css\\groups\\create.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\services\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\services\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|d:\\!_docs\\desktop\\\u0441\u0430\u043D\u044F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\taskmanager\\taskmanager\\services\\storeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1320332-BC64-412E-BD41-937B80CCC6BF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\services\\storeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Views\\Groups\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\Groups\\Edit.cshtml",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Views\\Groups\\Edit.cshtml",
+              "RelativeToolTip": "TaskManager\\Views\\Groups\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T06:08:12.627Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TaskManager\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T08:25:49.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Groups.cshtml",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Views\\Home\\_Groups.cshtml",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\Home\\_Groups.cshtml",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Views\\Home\\_Groups.cshtml",
+              "RelativeToolTip": "TaskManager\\Views\\Home\\_Groups.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T08:03:26.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Views\\Notes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\Notes\\Edit.cshtml",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Views\\Notes\\Edit.cshtml",
+              "RelativeToolTip": "TaskManager\\Views\\Notes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T05:19:45.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Controllers\\GroupsController.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "TaskManager\\Controllers\\GroupsController.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAowL8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:54:38.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Data\\Group.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Data\\Group.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Data\\Group.cs",
+              "RelativeToolTip": "TaskManager\\Data\\Group.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:15:18.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskWork.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Data\\TaskWork.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Data\\TaskWork.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Data\\TaskWork.cs",
+              "RelativeToolTip": "TaskManager\\Data\\TaskWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:33:51.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Views\\TaskWorks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\TaskWorks\\Edit.cshtml",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Views\\TaskWorks\\Edit.cshtml",
+              "RelativeToolTip": "TaskManager\\Views\\TaskWorks\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T07:34:28.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditTaskViewModel.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Tasks\\EditTaskViewModel.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\Tasks\\EditTaskViewModel.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Tasks\\EditTaskViewModel.cs",
+              "RelativeToolTip": "TaskManager\\Models\\Tasks\\EditTaskViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:35:28.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Tasks.cshtml",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Views\\Groups\\_Tasks.cshtml",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\Groups\\_Tasks.cshtml",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Views\\Groups\\_Tasks.cshtml",
+              "RelativeToolTip": "TaskManager\\Views\\Groups\\_Tasks.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T07:34:14.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskWorksController.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Controllers\\TaskWorksController.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Controllers\\TaskWorksController.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Controllers\\TaskWorksController.cs",
+              "RelativeToolTip": "TaskManager\\Controllers\\TaskWorksController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAcwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:38:27.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Program.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Program.cs",
+              "RelativeToolTip": "TaskManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:18:03.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditGroupViewModel.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Groups\\EditGroupViewModel.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\Groups\\EditGroupViewModel.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Groups\\EditGroupViewModel.cs",
+              "RelativeToolTip": "TaskManager\\Models\\Groups\\EditGroupViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:42:49.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GroupsRepository.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Services\\GroupsRepository.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Services\\GroupsRepository.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Services\\GroupsRepository.cs",
+              "RelativeToolTip": "TaskManager\\Services\\GroupsRepository.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAcwGEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:37:15.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorMessagesIdentityHelper.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Helpers\\ErrorMessagesIdentityHelper.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Helpers\\ErrorMessagesIdentityHelper.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Helpers\\ErrorMessagesIdentityHelper.cs",
+              "RelativeToolTip": "TaskManager\\Helpers\\ErrorMessagesIdentityHelper.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:29:05.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateGroupViewModel.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Groups\\CreateGroupViewModel.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\Groups\\CreateGroupViewModel.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Groups\\CreateGroupViewModel.cs",
+              "RelativeToolTip": "TaskManager\\Models\\Groups\\CreateGroupViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:42:54.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EnterGroupViewModel.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Groups\\EnterGroupViewModel.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\Groups\\EnterGroupViewModel.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Groups\\EnterGroupViewModel.cs",
+              "RelativeToolTip": "TaskManager\\Models\\Groups\\EnterGroupViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:42:57.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditInfoViewModel.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Users\\EditInfoViewModel.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\Users\\EditInfoViewModel.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Users\\EditInfoViewModel.cs",
+              "RelativeToolTip": "TaskManager\\Models\\Users\\EditInfoViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:55:12.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Users\\UserDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\Users\\UserDetailsViewModel.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Users\\UserDetailsViewModel.cs",
+              "RelativeToolTip": "TaskManager\\Models\\Users\\UserDetailsViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:55:19.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EditUserViewModel.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Users\\EditUserViewModel.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\Users\\EditUserViewModel.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Users\\EditUserViewModel.cs",
+              "RelativeToolTip": "TaskManager\\Models\\Users\\EditUserViewModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAawBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:55:16.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GroupDTO.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\DTOs\\GroupDTO.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\DTOs\\GroupDTO.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\DTOs\\GroupDTO.cs",
+              "RelativeToolTip": "TaskManager\\Models\\DTOs\\GroupDTO.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA5wBQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:54:46.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Controllers\\NotesController.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "TaskManager\\Controllers\\NotesController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:18:03.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NotesRepository.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Services\\NotesRepository.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Services\\NotesRepository.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Services\\NotesRepository.cs",
+              "RelativeToolTip": "TaskManager\\Services\\NotesRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:50:59.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StateTask.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Enums\\StateTask.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Enums\\StateTask.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Enums\\StateTask.cs",
+              "RelativeToolTip": "TaskManager\\Enums\\StateTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:48:00.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Services\\UserService.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Services\\UserService.cs",
+              "RelativeToolTip": "TaskManager\\Services\\UserService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:30:24.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditNoteViewModel.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Notes\\EditNoteViewModel.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\Notes\\EditNoteViewModel.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Notes\\EditNoteViewModel.cs",
+              "RelativeToolTip": "TaskManager\\Models\\Notes\\EditNoteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:32:05.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Services\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Services\\UserRepository.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Services\\UserRepository.cs",
+              "RelativeToolTip": "TaskManager\\Services\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:29:37.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Data\\Note.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Data\\Note.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Data\\Note.cs",
+              "RelativeToolTip": "TaskManager\\Data\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:45:43.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddNoteViewModel.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Notes\\AddNoteViewModel.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\Notes\\AddNoteViewModel.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Models\\Notes\\AddNoteViewModel.cs",
+              "RelativeToolTip": "TaskManager\\Models\\Notes\\AddNoteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:43:03.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApiNotesController.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Controllers\\Api\\ApiNotesController.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Controllers\\Api\\ApiNotesController.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Controllers\\Api\\ApiNotesController.cs",
+              "RelativeToolTip": "TaskManager\\Controllers\\Api\\ApiNotesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:41:26.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "jquery.validate.js",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeDocumentMoniker": "TaskManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeToolTip": "TaskManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ViewState": "AQIAACMGAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-28T05:39:22.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "TaskManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "TaskManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AQIAAIUEAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-28T05:38:23.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "TaskManager\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "TaskManager\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-28T05:26:37.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "delete.js",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\wwwroot\\js\\tasks\\delete.js",
+              "RelativeDocumentMoniker": "TaskManager\\wwwroot\\js\\tasks\\delete.js",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\wwwroot\\js\\tasks\\delete.js",
+              "RelativeToolTip": "TaskManager\\wwwroot\\js\\tasks\\delete.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-28T05:26:16.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "complete.js",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\wwwroot\\js\\notes\\complete.js",
+              "RelativeDocumentMoniker": "TaskManager\\wwwroot\\js\\notes\\complete.js",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\wwwroot\\js\\notes\\complete.js",
+              "RelativeToolTip": "TaskManager\\wwwroot\\js\\notes\\complete.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-28T05:25:51.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "exit.js",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\wwwroot\\js\\groups\\exit.js",
+              "RelativeDocumentMoniker": "TaskManager\\wwwroot\\js\\groups\\exit.js",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\wwwroot\\js\\groups\\exit.js",
+              "RelativeToolTip": "TaskManager\\wwwroot\\js\\groups\\exit.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-28T05:25:27.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "create.css",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\wwwroot\\css\\groups\\create.css",
+              "RelativeDocumentMoniker": "TaskManager\\wwwroot\\css\\groups\\create.css",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\wwwroot\\css\\groups\\create.css",
+              "RelativeToolTip": "TaskManager\\wwwroot\\css\\groups\\create.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-28T05:25:22.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskManager\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskManager\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T05:25:14.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\Users\\Details.cshtml",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "TaskManager\\Views\\Users\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T10:24:49.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TaskManager\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAA5wDgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:16:33.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TaskManager\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:15:59.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Services\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Services\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Services\\AutoMapperProfile.cs",
+              "RelativeToolTip": "TaskManager\\Services\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:46:45.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StoreUser.cs",
+              "DocumentMoniker": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Services\\StoreUser.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Services\\StoreUser.cs",
+              "ToolTip": "D:\\!_DOCS\\Desktop\\\u0421\u0430\u043D\u044F\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u043E\u0431\u043E\u0442\u0430\\TaskManager\\TaskManager\\Services\\StoreUser.cs",
+              "RelativeToolTip": "TaskManager\\Services\\StoreUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:23:41.225Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

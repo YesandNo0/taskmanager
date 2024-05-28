@@ -1,0 +1,53 @@
+﻿@using TaskManager.Models.DTOs
+@model IEnumerable<GroupDTO>
+
+@{
+    Func<GroupDTO, int> func = (GroupDTO g) => {
+        return g.TaskWorks.Count;
+    };
+
+    var NumberOfTasks = func;
+
+    var model = new ModalViewModel {
+                Question = "Are you sure to delete this group?",
+                OptionDelete = "Delete",
+                OptionCancel = "Cancel"
+    };
+}
+
+<link rel="stylesheet" href="~/css/groups/groups.css" asp-append-version="true"/>
+
+@foreach (var group in Model) {
+    <article class="group @group.Id">
+        <a class="group-detail" 
+        asp-action="Details" asp-controller="Groups" 
+        asp-route-groupId="@group.Id">
+            <div class="group-image">
+                <img src="@group.ImageFullPath" alt="@group.Name" class="group-img" loading="lazy"/>
+            </div>
+
+            <div class="group-details">
+                <p class="group-code">
+                    #@group.Id - @NumberOfTasks(group) Task@(NumberOfTasks(group) != 1 ? "s" : null)
+                </p>
+                <h3 class="group-name">@group.Name</h3>
+            </div>
+        </a>
+
+        <div class="group-actions">
+            <a class="action-btn action-btn-edit" 
+            asp-action="Edit" asp-controller="Groups" 
+            asp-route-groupId="@group.Id">
+                <i class="bi bi-pencil"></i>
+            </a>
+
+            <a class="action-btn action-btn-delete @group.Id">
+                <i class="bi bi-box-arrow-left"></i>
+            </a>
+        </div>
+    </article>
+}
+
+<partial name="_Modal" model="model"/>
+
+<script src="~/js/groups/exit.js"></script>

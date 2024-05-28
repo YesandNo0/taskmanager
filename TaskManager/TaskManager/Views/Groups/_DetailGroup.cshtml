@@ -1,0 +1,28 @@
+﻿@model DetailGroupViewModel
+
+<link rel="stylesheet" href="~/css/tasks/head-details.css" asp-append-version="true"/>
+
+<div class="details-header">
+    <section class="details-group">
+        <img class="details-img" 
+        src="@Model.ImageFullPath" 
+        alt="@Model.Name"
+        loading="lazy" />
+
+        <h2 class="details-title">@Model.Name</h2>
+    </section>
+
+    <section class="details-group-add">
+        <p class="add-text">Do you want to add a new task in this group?</p>
+        
+        <a asp-action="Add" asp-controller="TaskWorks" 
+        asp-route-groupId="@Model.GroupId" class="add-link">
+            <i class="bi bi-plus-lg"></i> 
+            Add 
+        </a>
+    </section>
+
+    <a class="return" asp-action="Index" asp-controller="Home" asp-route-charge="Groups">
+        <i class="bi bi-arrow-left"></i>
+    </a>
+</div>

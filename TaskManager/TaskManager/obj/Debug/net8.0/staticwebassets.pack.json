@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TaskManager.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TaskManager.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\groups\\create.css",
+      "PackagePath": "staticwebassets\\css\\groups\\create.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\groups\\details.css",
+      "PackagePath": "staticwebassets\\css\\groups\\details.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\groups\\edit.css",
+      "PackagePath": "staticwebassets\\css\\groups\\edit.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\groups\\enter.css",
+      "PackagePath": "staticwebassets\\css\\groups\\enter.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\groups\\general-styles.css",
+      "PackagePath": "staticwebassets\\css\\groups\\general-styles.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\groups\\groups.css",
+      "PackagePath": "staticwebassets\\css\\groups\\groups.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\groups\\header.css",
+      "PackagePath": "staticwebassets\\css\\groups\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\home\\error.css",
+      "PackagePath": "staticwebassets\\css\\home\\error.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\home\\home.css",
+      "PackagePath": "staticwebassets\\css\\home\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\home\\modal.css",
+      "PackagePath": "staticwebassets\\css\\home\\modal.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\home\\notes.css",
+      "PackagePath": "staticwebassets\\css\\home\\notes.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\notes\\add.css",
+      "PackagePath": "staticwebassets\\css\\notes\\add.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\notes\\edit.css",
+      "PackagePath": "staticwebassets\\css\\notes\\edit.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\notes\\general-notes.css",
+      "PackagePath": "staticwebassets\\css\\notes\\general-notes.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\tasks\\create.css",
+      "PackagePath": "staticwebassets\\css\\tasks\\create.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\tasks\\head-details.css",
+      "PackagePath": "staticwebassets\\css\\tasks\\head-details.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\tasks\\tasks.css",
+      "PackagePath": "staticwebassets\\css\\tasks\\tasks.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\users\\details.css",
+      "PackagePath": "staticwebassets\\css\\users\\details.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\css\\users\\users.css",
+      "PackagePath": "staticwebassets\\css\\users\\users.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\images\\forbiden.png",
+      "PackagePath": "staticwebassets\\images\\forbiden.png"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\images\\groups\\15ca9dab-faac-4436-8d5b-98e690c45e35.png",
+      "PackagePath": "staticwebassets\\images\\groups\\15ca9dab-faac-4436-8d5b-98e690c45e35.png"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\images\\groups\\2b0d990c-18f2-4fd6-b416-d423c33db50f.png",
+      "PackagePath": "staticwebassets\\images\\groups\\2b0d990c-18f2-4fd6-b416-d423c33db50f.png"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\images\\groups\\50ea5155-edfd-4142-ad97-d73aedf4df3c.png",
+      "PackagePath": "staticwebassets\\images\\groups\\50ea5155-edfd-4142-ad97-d73aedf4df3c.png"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\images\\groups\\c3ad382f-ad13-453a-bdda-b51c5c4caa8f.png",
+      "PackagePath": "staticwebassets\\images\\groups\\c3ad382f-ad13-453a-bdda-b51c5c4caa8f.png"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\images\\groups\\d6106fc2-38c6-4ad2-912d-dba7e6b94b34.png",
+      "PackagePath": "staticwebassets\\images\\groups\\d6106fc2-38c6-4ad2-912d-dba7e6b94b34.png"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\images\\nofound.png",
+      "PackagePath": "staticwebassets\\images\\nofound.png"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\images\\noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\images\\users\\1bebc338-2f51-4082-948c-658011cd7a49.png",
+      "PackagePath": "staticwebassets\\images\\users\\1bebc338-2f51-4082-948c-658011cd7a49.png"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\images\\users\\21647890-07d8-4e0a-aacb-5d099e562cad.png",
+      "PackagePath": "staticwebassets\\images\\users\\21647890-07d8-4e0a-aacb-5d099e562cad.png"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\images\\users\\47909a80-e273-4434-b1b2-ae8557c1fe74.png",
+      "PackagePath": "staticwebassets\\images\\users\\47909a80-e273-4434-b1b2-ae8557c1fe74.png"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\images\\users\\6ff79707-5736-4f15-bc4c-3e7ed776b68e.png",
+      "PackagePath": "staticwebassets\\images\\users\\6ff79707-5736-4f15-bc4c-3e7ed776b68e.png"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\images\\users\\c8a8d419-5116-4305-9442-adbb95e0fe10.png",
+      "PackagePath": "staticwebassets\\images\\users\\c8a8d419-5116-4305-9442-adbb95e0fe10.png"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\images\\users\\cb90ff73-1698-42c8-9188-46767ef45ce6.png",
+      "PackagePath": "staticwebassets\\images\\users\\cb90ff73-1698-42c8-9188-46767ef45ce6.png"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\js\\groups\\exit.js",
+      "PackagePath": "staticwebassets\\js\\groups\\exit.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\js\\notes\\complete.js",
+      "PackagePath": "staticwebassets\\js\\notes\\complete.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\js\\notes\\delete.js",
+      "PackagePath": "staticwebassets\\js\\notes\\delete.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\js\\tasks\\complete.js",
+      "PackagePath": "staticwebassets\\js\\tasks\\complete.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\js\\tasks\\delete.js",
+      "PackagePath": "staticwebassets\\js\\tasks\\delete.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KrutL\\Desktop\\Studio code\\Project\\TaskManager\\TaskManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TaskManager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TaskManager.props",
+      "PackagePath": "build\\TaskManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TaskManager.props",
+      "PackagePath": "buildMultiTargeting\\TaskManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TaskManager.props",
+      "PackagePath": "buildTransitive\\TaskManager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,65 @@
+﻿@using TaskManager.Data
+@using TaskManager.Enums
+@model IEnumerable<Note>
+
+@{
+    StateTask getState(int state) => state switch {
+        0 => StateTask.Active,
+        1 => StateTask.Finished,
+        2 => StateTask.Cancelled,
+        _ => StateTask.Active
+    };
+
+    Func<StateTask, DateTime, string> functionDate = (StateTask state, DateTime date) => {
+        string day = date.ToString("dd");
+        string month = date.ToString("MM");
+        string year = date.ToString("yyyy");
+        string hour = date.ToString("hh:mm tt");
+
+        return $"{day}/{month}/{year} at {hour} - {state}";
+    };
+
+    var getDetails = functionDate;
+
+    var model = new ModalViewModel {
+                Question = "Are you sure to delete this item?",
+                OptionDelete = "Delete",
+                OptionCancel = "Cancel"
+    };
+}
+
+<link rel="stylesheet" href="~/css/home/notes.css" asp-append-version="true"/>
+
+@foreach (var note in Model) {
+    <article class="note @note.Id">
+        <div class="note-description">
+            <p class="note-details">@getDetails(getState(note.State), note.Date)</p>
+            <p class="note-text @(note.State == 2 ? "note-canceled" : null)">@note.Text</p>
+        </div>
+
+        <div class="note-actions">
+            <a class="action-btn action-btn-complete @note.Id">
+                @if (note.State == 1) {
+                    <i class="bi bi-check2-square"></i>
+                } else {
+                    <i class="bi bi-square"></i>
+                }
+            </a>
+
+            <a class="action-btn action-btn-edit" 
+            asp-action="Edit" asp-controller="Notes" 
+            asp-route-noteId="@note.Id">
+                <i class="bi bi-pencil"></i>
+            </a>
+
+            <a class="action-btn action-btn-delete @note.Id">
+                <i class="bi bi-trash"></i>
+            </a>
+        </div>
+    </article>
+}
+
+<partial name="_Modal" model="model"/>
+
+<script src="~/js/notes/complete.js"></script>
+<script src="~/js/notes/delete.js"></script>

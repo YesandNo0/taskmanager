@@ -1,0 +1,45 @@
+﻿@model RegisterViewModel 
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<section class="main">
+    <h1 class="title">Register</h1>
+
+    <form asp-action="Register" enctype="multipart/form-data" class="form">
+        <div asp-validation-summary="ModelOnly" class="error"></div>
+    
+        <partial name="_RegisterUser" model="@Model"/>
+
+        <div class="buttons">
+            <label asp-for="ImageFile" class="label-image btn">
+                <i class="bi bi-card-image"></i>
+            </label>
+
+            <input asp-for="ImageFile" class="form-image"/>
+            <span asp-validation-for="ImageFile" class="error"></span>
+
+            <button type="submit" value="Register" class="btn">
+                Ready!
+            </button>
+        </div>
+
+        <hr/>
+
+        <p class="form-text">
+            Do you already have an account?
+            <a asp-action="Login">Click here.</a>
+        </p>
+    </form>
+</section>
+
+<style>
+    main {
+        margin: 1rem auto;
+    }
+</style>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

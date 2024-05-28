@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TaskManager",
+    "\\TaskManager\\Views",
+    "\\TaskManager\\Views\\Groups",
+    "\\TaskManager\\Views\\Users"
+  ],
+  "SelectedNode": "\\TaskManager\\Views\\Users\\Details.cshtml",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,19 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using TaskManager.Models.DTOs
+@inject SignInManager<UserDTO> SignInManager
+
+@if (SignInManager.IsSignedIn(User)) {
+    <li>
+        <a asp-action="Details" asp-controller="Users" class="user-details">
+            @User.Identity.Name
+        </a>
+    </li>
+
+    <li>
+        <form asp-action="Logout" asp-controller="Users">
+            <button type="submit" class="header-btn logout-btn">
+                <i class="bi bi-power"></i>
+            </button>
+        </form>
+    </li>
+}
